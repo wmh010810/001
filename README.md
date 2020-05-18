@@ -1,2 +1,3 @@
-test
-项目描述
+# 放学习c++与python时的一些代码 
+## C++  
+## python 
