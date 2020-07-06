@@ -4,4 +4,6 @@
 2.字符串，向量和数组
 ## python 
 1.Hard Way Learn Python  
-2.串口
+2.串口  
+3.列表  
+
