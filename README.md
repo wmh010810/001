@@ -5,5 +5,5 @@
 ## python 
 1.Hard Way Learn Python  
 2.串口  
-3.列表  
+3.列表与循环  
 
